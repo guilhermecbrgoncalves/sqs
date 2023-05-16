@@ -1,2 +1,2 @@
 # sqs
-A proof of concept of AWS SQS Messaging system.
+A proof of concept of the AWS SQS Messaging system.
